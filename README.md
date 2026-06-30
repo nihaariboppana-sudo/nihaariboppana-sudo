@@ -5,7 +5,7 @@ I am a passionate developer focused on digital logic, hardware programming, and 
 ---
 
 ### 🛠️ Tech Stack & Tools
-* **Languages:** C++, Embedded C
+* **Languages:** C++, Embedded C, Verilog HDL
 * **Tools & Platforms:** Git, GitHub, AVR Architecture
 
 ---
