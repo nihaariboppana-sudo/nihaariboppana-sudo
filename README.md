@@ -1,4 +1,4 @@
-# Hi there, I'm Nihaari! 👋
+# Hi there, I'm Nihaari! 
 
 I am a passionate developer focused on digital logic, hardware programming, and software engineering. I love building clean code that bridges the gap between software and physical hardware.
 
