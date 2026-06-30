@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Nihaari! 👋
 
-<!--
-**nihaariboppana-sudo/nihaariboppana-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate developer focused on digital logic, hardware programming, and software engineering. I love building clean code that bridges the gap between software and physical hardware.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+![C++](https://shields.io)
+![Embedded C](https://shields.io)
+![Git](https://shields.io)
+![GitHub](https://shields.io)
+
+---
+
+### 🚀 Featured Projects
+* **[ATmega328P Digital Clock](https://github.com)** - A hardware calculator and clock executing custom Boolean functions minimized via K-map reduction.
+* **[GATE IN 2016 Digital Logic](https://github.com)** - Digital logic implementations and problem-solving in C++.
+
+---
+
+### 📈 GitHub Stats
+<p align="left">
+<img src="https://vercel.app" alt="Nihaari's GitHub Stats" height="150" />
+<img src="https://vercel.app" alt="Top Languages" height="150" />
+</p>
+
+---
+⚡ *Learning in public and building things one logic gate at a time.*
